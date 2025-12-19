@@ -1,4 +1,4 @@
-# ALY6020_Predictive-Analytics
+ALY6020: Predictive Analytics
 
 Across the six projects in ALY 6020, I worked through the complete lifecycle of predictive analytics, from foundational modeling to advanced methods applied to real-world datasets. Throughout the course, I practiced defining and solving regression, classification, nearest neighbors, decision tree, and neural network models, focusing on how each technique behaves under different data conditions. Each assignment pushed me to clean messy datasets, engineer features, validate assumptions, and evaluate performance using metrics like accuracy, RMSE, ROC curves, and confusion matrices. These projects allowed me to explore both simple and complex modeling techniques while learning how to optimize hyperparameters and compare models to identify the best fit for each problem.
 
